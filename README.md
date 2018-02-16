@@ -7,8 +7,8 @@ Clase de Programación Cristian Peña
  * Version 3.0
  * Fecha: 15.02.2018
  */
+ 
 public class SegundaParte {
-
 	public static void main(String[] args) {
 		
 		//Declaramos las variables
