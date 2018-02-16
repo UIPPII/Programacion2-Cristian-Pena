@@ -4,7 +4,7 @@ Clase de Programación Cristian Peña
  * @author Cristian Peña
  * Programa: Parcial 1 
  * Segunda Parte
- * Version 2.0
+ * Version 3.0
  * Fecha: 15.02.2018
  */
 public class SegundaParte {
